@@ -1,5 +1,7 @@
 # PowerBI-dashboard
 
+![image](https://github.com/user-attachments/assets/6e3fe41b-18ea-422a-9225-f3d1b1e3e060)
+
 # 📊 Employee Attrition Analysis Using Excel & Power BI
 
 This project focuses on analyzing employee attrition using **Advanced Excel** and **Power BI**. The goal is to identify the key factors behind employee turnover and present actionable insights through an interactive dashboard.
@@ -50,4 +52,3 @@ This project showcases how **Excel** and **Power BI** can be powerful tools for 
 
 Feel free to explore, suggest improvements, or reach out if you're interested in collaborating!
 
-![image](https://github.com/user-attachments/assets/6e3fe41b-18ea-422a-9225-f3d1b1e3e060)
